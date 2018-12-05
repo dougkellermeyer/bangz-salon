@@ -1,3 +1,5 @@
+##A simple template for a hair salon.
+
 #Built using https://startbootstrap.com/template-overviews/grayscale/
 
 ## Usage
