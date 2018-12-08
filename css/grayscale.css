@@ -302,3 +302,10 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.instagram {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
